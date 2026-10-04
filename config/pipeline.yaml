@@ -1,0 +1,7 @@
+sumber: pasaree-backend-service
+antrean: memori-lokal
+tujuan:
+  - pencarian-katalog
+  - metrik-lapak-aktif
+format_waktu: ISO-8601-UTC
+format_id: ULID-string

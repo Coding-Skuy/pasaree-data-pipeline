@@ -1,0 +1,9 @@
+[project]
+name = "pasaree-data-pipeline"
+version = "0.1.0"
+description = "Pipa event katalog Pasaree"
+requires-python = ">=3.12"
+dependencies = ["pyyaml"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
